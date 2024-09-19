@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Projeto agreador de Links exclusivo e gratuito, para utlizar e modificar da sua forma. <br/>
+Projeto agregador de Links exclusivo e gratuito, para utlizar e modificar da sua forma. <br/>
 </p>
 
 <p align="center">
